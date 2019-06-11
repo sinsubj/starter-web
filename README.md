@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+A bit more changes.
+
 ## Deployment
+
+This is a simple web project.
