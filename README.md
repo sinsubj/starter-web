@@ -17,3 +17,5 @@ A bit more changes.
 ## Deployment
 
 This is a simple web project.
+
+2019 Git Training
