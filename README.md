@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 A bit more changes.
+Please fork this repository and then let me know.
 
 ## Deployment
 
