@@ -6,7 +6,7 @@ then more changes from br1 branch too.
 
 ## Introduction
 
-This example shows different parts of Git repository & various commands using a web project.
+This example shows different parts of Git repository & various commands using a web project. Making some changes.
 
 ## Purpose
 
